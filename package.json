@@ -1,0 +1,9 @@
+{
+  "name": "watchpack-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "watchpack": "2.0.0-beta.12"
+  }
+}
